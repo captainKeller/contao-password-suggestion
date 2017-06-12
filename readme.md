@@ -18,7 +18,7 @@ If you are running Contao 4, you have to register this extension in the AppKerne
 
 ```php
 
-file: /AppKernel.php
+// file: /AppKernel.php
 class AppKernel extends Kernel
 {
     public function registerBundles()
